@@ -1,0 +1,48 @@
+Anular:
+  X: 168
+  Y: 182
+  angulo: !!python/object/apply:numpy._core.multiarray.scalar
+  - &id001 !!python/object/apply:numpy.dtype
+    args:
+    - f8
+    - false
+    - true
+    state: !!python/tuple
+    - 3
+    - <
+    - null
+    - null
+    - null
+    - -1
+    - -1
+    - 0
+  - !!binary |
+    toR80LNpZkA=
+Indice:
+  X: 235
+  Y: 188
+  angulo: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    6Ugu/yENZkA=
+Medio:
+  X: 202
+  Y: 167
+  angulo: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    0m9fB849ZkA=
+Menique:
+  X: 97
+  Y: 232
+  angulo: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    ZohjXdw4ZkA=
+Pulgar:
+  X: 330
+  Y: 321
+  angulo: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    qaROQBPPY0A=
