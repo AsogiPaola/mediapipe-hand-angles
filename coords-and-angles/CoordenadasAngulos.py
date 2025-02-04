@@ -91,7 +91,7 @@ with mp_hands.Hands(
                 # Añadir datos actuales a la lista
                 all_finger_data.append(finger_coords)
                 
-                if angle_thumb and angle_middle and angle_index and angle_ring and angle_pinky < 90:
+                if angle_thumb < 90 and angle_middle < 90 and angle_index < 90 and angle_ring < 90 and angle_pinky < 90:
                     cv2.putText(frame, f'MANO CERRADA', (10, 180), cv2.FONT_HERSHEY_SIMPLEX, 0.6, (255, 0, 0), 2)
                 
                 # Dibujar los puntos y las conexiones en la imagen
