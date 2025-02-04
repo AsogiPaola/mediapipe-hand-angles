@@ -19,3 +19,4 @@ Los resultados de estos cálculos se muestran en tiempo real sobre la imagen cap
 
 
 ![gifhands](https://github.com/user-attachments/assets/026bd074-a1bf-4fde-8dbe-4a710bbcecd9)
+![distance](https://github.com/user-attachments/assets/bbab5c14-ffdf-4439-a9b1-be2528ed6262)
