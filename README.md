@@ -1,5 +1,5 @@
 <h1>OpenCV y MediaPipe para el Seguimiento de Manos</h1><br>
-Este repositorio contiene una serie de experimentos que he desarrollado utilizando OpenCV y MediaPipe, con un enfoque principal en el seguimiento y análisis de manos.<br>
+Este repositorio contiene una serie de experimentos que he desarrollado utilizando OpenCV y MediaPipe, con un enfoque principal en el seguimiento y análisis de manos y guardar datos en diferentes tipos de archivos como yaml o json, los datos guardados en estos corresponden a coordenadas en algunos de los codigos para crear un espacio donde en el futuro de manera inversa y con estos datos que se guardan recrear el movimiento, Aun estoy trabajando en ello!.<br>
 <h2>Herramientas:</h2> <br>
  <img src="https://github.com/user-attachments/assets/12e3aa8a-4d5c-4f32-8e27-1e3cd02edf1d" width="10%"/>
  <img src="https://github.com/user-attachments/assets/3a93cbae-1963-4aab-aac4-0d7c8e9cf310" width="10%" /> 
@@ -20,3 +20,4 @@ Los resultados de estos cálculos se muestran en tiempo real sobre la imagen cap
 
 ![gifhands](https://github.com/user-attachments/assets/026bd074-a1bf-4fde-8dbe-4a710bbcecd9)
 ![distance](https://github.com/user-attachments/assets/bbab5c14-ffdf-4439-a9b1-be2528ed6262)
+![countgif](https://github.com/user-attachments/assets/f9d1e8ce-5f3f-41b3-9a61-bfb7aa148411)
