@@ -1,9 +1,9 @@
 
 Herramientas:
  <img src="https://github.com/user-attachments/assets/12e3aa8a-4d5c-4f32-8e27-1e3cd02edf1d" width="280" height="280"/>
-![image](https://github.com/user-attachments/assets/adccb22d-1163-4c1a-9ae2-0b6174a4df08) 
-![image](https://github.com/user-attachments/assets/f4a5dfc8-ca55-4838-870e-a1e44173ab3c) 
-![image](https://github.com/user-attachments/assets/1e43db4e-6ee7-42f6-9686-458d7713820a)
+ <img src="https://github.com/user-attachments/assets/adccb22d-1163-4c1a-9ae2-0b6174a4df08" width="280" height="280"/>
+ <img src="https://github.com/user-attachments/assets/f4a5dfc8-ca55-4838-870e-a1e44173ab3c" width="280" height="280"/> 
+ <img src="https://github.com/user-attachments/assets/1e43db4e-6ee7-42f6-9686-458d7713820a" width="280" height="280"/>
 
 
 Esto repositorio es sobre una serie de experimentos que he realizado con estas librerias principales: Opencv y Mediapipe, enfocado principalmente en las manos.
